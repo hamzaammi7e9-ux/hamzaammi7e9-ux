@@ -29,6 +29,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzaammi7e9-ux&show_icons=true&theme=dark" alt="Estadísticas de GitHub" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaammi7e9-ux&layout=compact&theme=dark" alt="Lenguajes más usados" width="48%" />
 </p>
